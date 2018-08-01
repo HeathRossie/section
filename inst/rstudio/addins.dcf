@@ -1,4 +1,4 @@
-Name: section
+Name: insertRsec
 Description: creating a section 
 Binding: insertRsec
 Interactive: false
