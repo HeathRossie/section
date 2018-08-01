@@ -2,3 +2,9 @@ Name: insertRsec
 Description: creating a section 
 Binding: insertRsec
 Interactive: false
+
+
+Name: insertPythonsec
+Description: creating a section 
+Binding: insertPythonsec
+Interactive: false
