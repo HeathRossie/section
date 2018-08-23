@@ -8,3 +8,8 @@ Name: insertPythonsec
 Description: creating a section 
 Binding: insertPythonsec
 Interactive: false
+
+Name: insertWorkingDirectory
+Description: set directory
+Binding: insertWorkingDirectory
+Interactive: false
